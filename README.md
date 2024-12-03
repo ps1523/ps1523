@@ -20,6 +20,9 @@
 <a href="https://twitter.com/ps152303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ps152303" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhashankar-k-34b6a1250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhashankar-k-34b6a1250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/kprabhashankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kprabhashankar" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@ps1523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@ps1523" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/p_s_15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/p_s_15" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/_ps_15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/_ps_15/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
