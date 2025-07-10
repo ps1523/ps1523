@@ -40,3 +40,8 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=ps1523&theme=react-dark" alt="GitHub Activity Graph" />
     </div>
 </div>
+
+
+
+📊 Top Language  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ps1523&layout=compact&theme=gruvbox)
