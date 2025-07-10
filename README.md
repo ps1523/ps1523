@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm PRABHA SHANKAR .K</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=MCA;Cyber+Security+Analytics;Embedded+Systems+Developer;Frontend+Developer;Motivational+Advisor" alt="Typing SVG" />
+</div>
+
 <h3 align="center">To be a successful person and a leader in my discipline and to serve my organization as well as my Nation through my commitment, dedication and hard work</h3>
 
 - 🔭 I’m currently education on **PG**
