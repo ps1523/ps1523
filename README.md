@@ -13,7 +13,7 @@
 
 - 👨‍💻 my projects work on based on **website using for publice bus route tracking information system**
 
-- 👨‍💻 my portfolio (https://ps1523.github.io/new-portfolio/)
+- 👨‍💻 my portfolio (ps.squidnova.in)
 
 - 💬 Ask me about **iam very PUNCTUALLY SINCERE TEAM WORKER OPTIMISTIC LEADERSHIP**
 
